@@ -1,4 +1,3 @@
-# Data-analytics-portfolio
 # Data Analytics Portfolio – Samuel Oluwash... 
 
 Entry-level Data Analyst with hands-on experience in Excel and SQL.
